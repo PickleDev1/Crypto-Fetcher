@@ -1,0 +1,39 @@
+{
+  "name": "crypto-fetcher",
+  "version": "1.0.0",
+  "description": "Crypto data returned",
+  "main": "index.js",
+  "dependencies": {
+    "call-bind": "^1.0.2",
+    "function-bind": "^1.1.1",
+    "get-intrinsic": "^1.1.2",
+    "has": "^1.0.3",
+    "has-symbols": "^1.0.3",
+    "coinmarketcap-api": "^3.1.1",
+    "qs": "^6.11.0",
+    "node-fetch": "^2.6.7",
+    "side-channel": "^1.0.4",
+    "object-inspect": "^1.12.2",
+    "tr46": "^0.0.3",
+    "whatwg-url": "^5.0.0",
+    "webidl-conversions": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "tracker",
+    "price",
+    "price-tracker",
+    "crypto-price",
+    "cool",
+    "boblox",
+    "pickle",
+    "fatty",
+    "yeet"
+  ],
+  "author": "Pickle Fatty",
+  "license": "MIT"
+}
